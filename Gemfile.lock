@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/bmaland/logstore.git
-  revision: 45990cfc70f77752ad24856000e66f6fbcc5090f
+  revision: 87961ecd525a546075647e7b766153475a24bbf4
   specs:
     logstore (0.0.1)
       rails (~> 3.2.11)

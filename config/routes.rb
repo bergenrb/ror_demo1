@@ -1,8 +1,9 @@
 Demo1::Application.routes.draw do
   resources :high_scores
 
-
   get "welcome/index"
+
+  mount Logstore::Engine => "/logstore"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
