@@ -37,15 +37,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/high_scores/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="87" selection-start="609" selection-end="609" vertical-scroll-proportion="-16.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="high_scores_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/high_scores_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,10 +64,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="high_scores_controller_test.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="high_scores_controller_test.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/functional/high_scores_controller_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="1168" vertical-scroll-proportion="0.0">
+            <state line="18" column="85" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.076271184">
               <folding />
             </state>
           </provider>
@@ -123,6 +123,7 @@
         <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/high_scores/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -813,7 +814,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/functional/high_scores_controller_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1168" vertical-scroll-proportion="0.0">
+        <state line="18" column="85" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.076271184">
           <folding />
         </state>
       </provider>
