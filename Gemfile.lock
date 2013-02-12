@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/bmaland/logstore.git
+  revision: 45990cfc70f77752ad24856000e66f6fbcc5090f
+  specs:
+    logstore (0.0.1)
+      rails (~> 3.2.11)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -106,6 +113,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  logstore!
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
   sqlite3
