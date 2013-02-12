@@ -37,4 +37,4 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-gem 'logstore', github: 'bmaland/logstore'
+gem 'logstore', github: 'bergenrb/logstore'
