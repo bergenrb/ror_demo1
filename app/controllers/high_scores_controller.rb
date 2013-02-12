@@ -2,6 +2,7 @@ class HighScoresController < ApplicationController
   # GET /high_scores
   # GET /high_scores.json
   def index
+    logger.info 'Loading highscores'
     @high_scores = HighScore.all
 
     respond_to do |format|
